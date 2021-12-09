@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Coming Soon" />
         <p className="picture">
-    <img src = :https://github.com/CnftTrash/next-netlify-starter/blob/main/trash-lord.png">
+    <img src = "https://github.com/CnftTrash/next-netlify-starter/blob/main/trash-lord.png">
         </p>
       </main>
 
