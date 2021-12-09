@@ -16,7 +16,7 @@ export default function Home() {
   <script>
 
     var img = document.createElement("img");
-    img.src = "next-netlify-starter/trash-lord.png";
+    img.src = "https://github.com/CnftTrash/next-netlify-starter/blob/main/trash-lord.png?raw=true";
 
     var div = document.getElementById("x");
     div.appendChild(img);
