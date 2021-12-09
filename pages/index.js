@@ -13,20 +13,8 @@ export default function Home() {
       <main>
         <Header title="Coming Soon" />
     <body>
-        <p className="picture">
-    
-     <div id="x"></div>
-  <script>
-
-    var img = document.createElement("img");
-    img.src = "https://raw.githubusercontent.com/CnftTrash/next-netlify-starter/main/trash-lord.png";
-
-    var div = document.getElementById("x");
-    div.appendChild(img);
-    //block.setAttribute("style", "text-align:center");
-
-    </script>
- 
+        <p>
+    img src "https://raw.githubusercontent.com/CnftTrash/next-netlify-starter/main/trash-lord.png"
         </p>
   </body>
       </main>
