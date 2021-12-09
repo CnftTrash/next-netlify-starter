@@ -12,7 +12,10 @@ export default function Home() {
 
       <main>
         <Header title="Coming Soon" />
+    <body>
         <p className="picture">
+    
+     <div id="x"></div>
   <script>
 
     var img = document.createElement("img");
@@ -23,7 +26,9 @@ export default function Home() {
     //block.setAttribute("style", "text-align:center");
 
     </script>
+ 
         </p>
+  </body>
       </main>
 
       <Footer />
