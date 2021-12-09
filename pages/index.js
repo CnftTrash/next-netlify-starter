@@ -13,10 +13,10 @@ export default function Home() {
       <main>
         <Header title="Coming Soon" />
     <body>
-        <p>
-    img src "https://raw.githubusercontent.com/CnftTrash/next-netlify-starter/main/trash-lord.png"
-        </p>
-  </body>
+       
+    <img src "https://raw.githubusercontent.com/CnftTrash/next-netlify-starter/main/trash-lord.png">
+        
+      </body>
       </main>
 
       <Footer />
