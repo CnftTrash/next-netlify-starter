@@ -19,7 +19,7 @@ export default function Home() {
   <script>
 
     var img = document.createElement("img");
-    img.src = "https://github.com/CnftTrash/next-netlify-starter/blob/main/trash-lord.png?raw=true";
+    img.src = "https://raw.githubusercontent.com/CnftTrash/next-netlify-starter/main/trash-lord.png";
 
     var div = document.getElementById("x");
     div.appendChild(img);
